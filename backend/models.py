@@ -10,4 +10,3 @@ class GridMetrics(Base):
     voltage = Column(Float)
     line_load = Column(Float)
     anomaly_type = Column(String, nullable=True)
-

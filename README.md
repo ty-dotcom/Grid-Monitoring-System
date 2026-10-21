@@ -117,7 +117,7 @@ Go to the backend directory
 Install python requirements
 
 ```bash
-  pip install -r requirements.txt
+  pip install -r requirements-dev.txt
 ```
 
 Otherwise run python code using an IDE.

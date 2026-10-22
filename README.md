@@ -71,7 +71,7 @@ https://colab.research.google.com/drive/1GGFtfbIZ2igx6gKjMGZXHP8VJ-__kYIm?usp=sh
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/ty-dotcom/Grid-Monitoring-System.git
 ```
 
 Download and setup PostgreSQL and TimeScaleDB

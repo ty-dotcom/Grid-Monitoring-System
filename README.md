@@ -60,7 +60,7 @@ to visulalize the performance of the model. The model had strong performance hav
 
 
 The model held strong performance in the range of 0.65 rho to 0.90 rho, and began underestimating at >0.90 due to the rarity of these cases from the simulated data. The model made predominant usage of max_rho for predicting the target_rho, but also made use of power production and consumption. The rolling variables had much smaller influence on the prediction.
-There was only a 1.59% error when predicting, and only ~3.3% of the variation remains unexplained.
+There was only a 1.14% error when predicting, and only ~3.3% of the variation remains unexplained.
 
 ### Colab used to evaluate model
 https://colab.research.google.com/drive/1GGFtfbIZ2igx6gKjMGZXHP8VJ-__kYIm?usp=sharing
